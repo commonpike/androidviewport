@@ -4,6 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android" >
     <name>androidviewport</name>
     <description>cordova plugin to honor viewport meta tag in android</description>
+    <author>commonpike</author>
     <license>MIT</license>
     <keywords>cordova,viewport</keywords>
     <repo>https://github.com/commonpike/androidviewport</repo>
