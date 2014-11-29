@@ -13,7 +13,7 @@ import android.util.Log;
 
 
 
-public class WebviewSetting extends CordovaPlugin {
+public class AndroidViewport extends CordovaPlugin {
     private CordovaWebView webView;
     private static final String LOG_TAG = "AndroidViewport";
     @Override
